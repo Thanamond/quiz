@@ -6,7 +6,7 @@ public class Program
     {
         if(1< n <= 10000)
         {
-            return int.Parse(Console.ReadLine());;
+            return int.Parse(Console.ReadLine());
         }
     }
 
